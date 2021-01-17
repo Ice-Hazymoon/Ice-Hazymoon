@@ -4,10 +4,12 @@
 
 #### Find me
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ice_Hazymoon)
+[![](https://img.shields.io/badge/Weibo-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/3983176694)
 [![](https://img.shields.io/badge/-Twitter-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/21851788)
 [![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://imiku.me)
 ![](https://img.shields.io/badge/Wechat-lovesnad-07C160?style=flat-square&logo=wechat&logoColor=white)
-[![](https://img.shields.io/badge/Weibo-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/3983176694)
+[![](https://img.shields.io/badge/QQ-1733708055-EB1923?style=flat-square&logo=tencent-qq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=1733708055&site=qq&menu=yes)
+
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
