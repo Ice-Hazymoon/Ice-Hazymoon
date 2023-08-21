@@ -2,7 +2,7 @@
 
 ![](https://count.getloli.com/get/@Ice-Hazymoon?theme=moebooru-h)
 
-![](https://github-readme-stats.vercel.app/api?username=Ice-Hazymoon&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
+![](https://github-readme-stats-git-main-hazymoon.vercel.app/api?username=Ice-Hazymoon&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide=contribs)
 
 #### Find me
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ice_Hazymoon)
